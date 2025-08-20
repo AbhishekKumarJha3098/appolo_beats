@@ -1,5 +1,7 @@
 # AppoloBeats
 
+# A full-featured music application built with React (Vite), Material UI, and Zod validation.
+The app allows users to sign up, log in, manage their own songs, and explore features like filtering, searching, and playback.
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
